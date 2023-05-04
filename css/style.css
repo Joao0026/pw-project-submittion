@@ -1,0 +1,143 @@
+body {
+	background-color: #DECBB7;
+	margin: 0;
+	border:0;
+	padding: 0;
+	font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+header {
+	background-color: #433633;
+	color: #F7F0F5;
+	padding: 20px;
+}
+
+.all{
+	border: 0px;
+	margin: 80px;
+	height: 415px;
+	display: flex;
+}
+
+.caixa {
+	margin: 15px;
+	width: 800px;
+	height: 400px;
+	box-shadow: -1px 0 10px #111;
+	align-items: center;
+	justify-content: center;
+	text-align: center;
+} 
+
+.caixa1 {
+	margin: 15px;
+	width: 800px;
+	height: 400px;
+	box-shadow: -1px 0 10px #111;
+	align-items: center;
+	justify-content: center;
+	text-align: center;
+} 
+
+.caixa2 {
+	margin: 15px;
+	width: 800px;
+	height: 400px;
+	box-shadow: -1px 0 10px #111;
+	align-items: center;
+	justify-content: center;
+	text-align: center;
+} 
+
+
+a{
+	color: #5C5552;
+	font-size: 15px;
+}
+
+img {
+	width: 400px;
+	max-width: 600px;
+	height: 250px;
+	display: flex;
+}
+
+footer {
+	background-color: #5C5552;
+	color: #8C827D;
+	padding: 20px;
+	display: flex;
+    justify-content: space-between;
+    text-align: justify;
+	align-items: center;
+}
+
+footer img{
+	height: 100px;
+	width: 100px;
+}
+
+.saibamais {
+    margin-top: 20px;
+	display: inline-block;
+	background: #DECBB7;
+	padding: 10px 20px;
+}
+
+.section{
+	box-shadow: -1px 0 10px #111;
+	background-color: #8C827D;
+	display: flex;
+	justify-content: space-between;
+	padding: 40px;
+	width: 87%;
+	margin: 50px;
+	border: 1px solid #5C5552;
+}
+
+.section img{
+	height: 268px;
+	width: 242px;
+	max-width: 300px;
+}
+
+.section h2{
+	margin: 0;
+	color: #433633;
+}
+.section p{
+	color:#5C5552;
+	margin-right: 15px;	
+}
+
+.section ul{
+	color: #D8C3AC;
+}
+
+nav{
+	height:80px;
+	width:100%;
+}
+
+nav ul{
+	float: right;
+	margin-right: 40px;
+}
+
+nav li{
+	display: inline-block;
+	margin: -35px 25px;
+	line-height: 80px;
+	font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+nav a{
+	color: #DECBB7;
+	font-size:18px;
+}
+
+h1 {
+	font-size: 30px;
+	font-family: Georgia, 'Times New Roman', Times, serif;
+	color: #DECBB7;
+}
